@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Abu Taieb</h1>
-<h3 align="center">Front End Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Abu-Taieb&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Abu-Taieb" /> </p>
+<h1 align="center">Hi 👋, I'm Abu Taieb </h1>
+<h3 align="center">Front End Web Developer </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abu-Taieb&label=Profile%20views&color=0e75b6&style=flat" alt="Abu-Taieb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Abu-Taieb&theme=default" alt="https://github.com/Abu-Taieb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abu-Taieb&theme=onestar" alt="Abu-Taieb" /></a> </p>
 
 - 🔭 I’m currently working on [TGA College](https://college-booking-5ba31.web.app/)
 - 👯 I’m looking to collaborate on [Car Toy Market](https://car-toy-market.web.app/)
@@ -13,11 +13,11 @@
 - 📫 How to reach me **taieb@gmail.com**
 - 👨‍💻 All of my projects are available at **https://abu-taieb.github.io/abutaieb-portfolio/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1gcDwaQPjFt7QM9kEQYOSL2BraQeR3U7T/view?usp=sharing**
-- ⚡ Fun fact **I think I am happy man.**
+- ⚡ Fun fact **I think I am a happy man.**
 
 <div> <a href="https://twitter.com/abutaieb_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/abutaieb-me" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/https://github.com/Abu-Taieb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Abu-Taieb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:taieb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,18 +47,20 @@
 <p><a href="https://www.buymeacoffee.com/Black"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Black" /></a><a href="https://ko-fi.com/Dark"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Dark" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Abu-Taieb&langs_count=8&theme=default" alt=https://github.com/Abu-Taieb />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taieb&langs_count=8&theme=dark" alt=Abu-Taieb />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Abu-Taieb&show_icons=true&locale=en&theme=default" alt="https://github.com/Abu-Taieb" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abu-Taieb&show_icons=true&locale=en&theme=dark" alt="Abu-Taieb" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Taieb&theme=dark" alt="Abu-Taieb" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/https://github.com/Abu-Taieb">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/Abu-Taieb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/Abu-Taieb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/Abu-Taieb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/Abu-Taieb&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/Abu-Taieb&theme=2077" height="180em" />
+<a href="https://github.com/Abu-Taieb">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abu-Taieb&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abu-Taieb&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abu-Taieb&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abu-Taieb&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Taieb&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Abu-Taieb&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abu-Taieb&theme=react-dark"/>
