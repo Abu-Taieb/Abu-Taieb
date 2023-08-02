@@ -46,7 +46,6 @@
 <a href="https://github.com/Abu-Taieb">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abu-Taieb&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abu-Taieb&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abu-Taieb&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Taieb&theme=2077" height="180em" />
 </div>
   
