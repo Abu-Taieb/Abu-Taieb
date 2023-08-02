@@ -26,14 +26,14 @@
 <a href = "mailto:taieb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 
 <h3 align="left">Languages and Tools:</h3>
-- ✅ MongoDB 
-- ✅ Express.js 
-- ✅ Node.js 
-- ✅ React 
-- ✅ Firebase 
-- ✅ Tailwind 
-- ✅ JavaScript 
-- ✅ Bootstrap
+✅ MongoDB <br/>
+✅ Express.js <br/>
+✅ Node.js <br/>
+✅ React <br/>
+✅ Firebase <br/>
+✅ Tailwind <br/>
+✅ JavaScript <br/>
+✅ Bootstrap
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taieb&langs_count=8&theme=dark" alt=Abu-Taieb />
