@@ -26,8 +26,8 @@
 <a href = "mailto:taieb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 
 <h3 align="left">Languages and Tools:</h3>
+✅ MongoDB | ✅ Express.js | ✅ Node.js | ✅ React | ✅ Firebase | ✅ Tailwind | ✅ JavaScript | ✅ Bootstrap | ✅ CSS | ✅ HTML
 <p align="left">
-MongoDB | Express.js | Node.js | React | Firebase | Tailwind | JavaScript | Bootstrap | CSS | HTML
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
