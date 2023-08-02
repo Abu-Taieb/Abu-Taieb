@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with [SMASH](https://smash-bb401.web.app/)
 - 🌱 I’m currently learning **MongoDB and Next.js**
 - 💬 Ask me about **Front End Technology**
-- 📫 How to reach me **taieb@gmail.com**
+- 📫 How to reach me **taieb.contact.bd@gmail.com**
 - 👨‍💻 All of my projects are available at **https://abu-taieb.github.io/abutaieb-portfolio/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1gcDwaQPjFt7QM9kEQYOSL2BraQeR3U7T/view?usp=sharing**
 - ⚡ Fun fact **I think I am happy man.**
@@ -26,8 +26,14 @@
 <a href = "mailto:taieb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 
 <h3 align="left">Languages and Tools:</h3>
-✅ MongoDB | ✅ Express.js | ✅ Node.js | ✅ React | ✅ Firebase | ✅ Tailwind | ✅ JavaScript | ✅ Bootstrap | ✅ CSS | ✅ HTML
-
+✅ MongoDB
+✅ Express.js
+✅ Node.js
+✅ React
+✅ Firebase
+✅ Tailwind
+✅ JavaScript
+✅ Bootstrap
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taieb&langs_count=8&theme=dark" alt=Abu-Taieb />
