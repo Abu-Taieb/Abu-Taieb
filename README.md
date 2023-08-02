@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abu Taieb</h1>
+<h1 align="center">Hi there 👋, I'm Abu Taieb</h1>
 <h2 align="center">Front End Web Developer</h2>
 
 
@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taieb&langs_count=8&theme=dark" alt=Abu-Taieb />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taieb&langs_count=8&theme=dark" alt=Abu-Taieb />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Taieb&theme=dark" alt="Abu-Taieb" /></p>
 
