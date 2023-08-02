@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Abu Taieb</h1>
-<h3 align="center">Front End Web Developer</h3>
+<h2 align="center">Front End Web Developer</h2>
 
 
 ![Front End Web Developer](https://scontent.fdac3-1.fna.fbcdn.net/v/t1.6435-9/196952619_2950788231825161_9122443950992041460_n.png?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFk_dIlEC5oBuu9hdW3MRLTjTCllPJOGjiNMKWU8k4aOFUIWVC4LAY1FOlXA1VqJ6god9G_tUXfS1AJQ0CGWkDf&_nc_ohc=jmmFgk3-2ZAAX-EJX7U&_nc_oc=AQkBUmI3_0W1eF-IQKofS4nuxFEal14Fh30HJcyUgmZxOyrtRX9U2XUExqtiU2JLQp4&_nc_ht=scontent.fdac3-1.fna&oh=00_AfDzqi0pExi9DSS1nhy9MpJS12zRptY9UQx1RibSMbLp-g&oe=64F1E95B)
@@ -58,9 +57,13 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abu-Taieb&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abu-Taieb&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abu-Taieb&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abu-Taieb&theme=2077" height="180em" />
+  
+
+
+  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Taieb&theme=2077" height="180em" />
 </div>
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abu-Taieb&theme=react-dark"/>
 
