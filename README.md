@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I think I am happy man.**
 
 <h3 align="left">Languages and Tools:</h3>
-✅ MongoDB ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=&color=353535)<br/>
+✅ MongoDB ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535)<br/>
 ✅ Express.js <br/>
 ✅ Node.js <br/>
 ✅ React <br/>
