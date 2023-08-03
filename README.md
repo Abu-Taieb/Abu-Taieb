@@ -14,10 +14,10 @@
 - 📫 How to reach me **taieb.contact.bd@gmail.com**
 - 👨‍💻 All of my projects are available at **https://abu-taieb.github.io/abutaieb-portfolio/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1gcDwaQPjFt7QM9kEQYOSL2BraQeR3U7T/view?usp=sharing**
-- ⚡ Fun fact **I think I am happy man.**
+- ⚡ Fun fact **I think I am a happy man.**
 
 <h3 align="left">Languages and Tools:</h3>
-✅ MongoDB  ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+✅ MongoDB <br/>
 ✅ Express.js <br/>
 ✅ Node.js <br/>
 ✅ React <br/>
