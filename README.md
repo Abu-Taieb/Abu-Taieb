@@ -17,8 +17,7 @@
 - ⚡ Fun fact **I think I am a happy man.**
 
 <h3 align="left">Languages and Tools:</h3>
-✅ MongoDB <br/>
-✅ Express.js <br/>
+✅ MongoDB ✅ Express.js <br/>
 ✅ Node.js <br/>
 ✅ React <br/>
 ✅ Firebase <br/>
