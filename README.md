@@ -1,5 +1,5 @@
 
-![Front End Web Developer](https://i.ibb.co/NF7Pvkm/update-my-cover-photo-icons.png)
+![Front End Web Developer](https://i.ibb.co/YWSfz6F/abu-taieb.png)
 
 <h1 align="center">Hi there 👋, I'm Abu Taieb</h1>
 <h2 align="center">Front-End Web Developer</h2>
