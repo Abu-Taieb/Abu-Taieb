@@ -1,5 +1,5 @@
 
-![Front End Web Developer](https://pbs.twimg.com/profile_banners/1431286565079175169/1630082343/1080x360)
+[![Front End Web Developer](https://pbs.twimg.com/profile_banners/1431286565079175169/1630082343/1080x360)](https://i.ibb.co/kHZdP94/Update-Cover-Photo.png)
 
 <h1 align="center">Hi there 👋, I'm Abu Taieb</h1>
 <h2 align="center">Front-End Web Developer</h2>
